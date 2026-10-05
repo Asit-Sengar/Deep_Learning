@@ -1,5 +1,7 @@
 # Perceptron
 
+Author: Asit Sengar
+
 A focused study of the perceptron learning algorithm, one of the foundational models in machine learning and artificial neural networks.
 
 ## Overview
@@ -10,13 +12,6 @@ The perceptron is a simple linear binary classifier that learns a decision bound
 - linear separability
 - weight updates and optimization
 - foundations of neural networks
-
-## Objectives
-
-- understand the perceptron update rule
-- implement the algorithm from scratch
-- test it on a simple labeled dataset
-- observe how decision boundaries change during training
 
 ## File Structure
 

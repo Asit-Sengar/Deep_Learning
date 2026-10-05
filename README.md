@@ -1,5 +1,7 @@
 # My Deep Learning Journey
 
+Author: Asit Sengar
+
 Welcome to my deep learning learning repository. I’m using this space to document my progress as I build my understanding of deep learning, explore its ideas, and put what I learn into practice.
 
 ## What I’m Learning
